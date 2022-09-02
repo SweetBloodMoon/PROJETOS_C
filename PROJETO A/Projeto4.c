@@ -6,7 +6,7 @@
 
 int main () {
     int voto;
-    int candidatos[5];//Iremos ver isso mas para frente mas pense que isso é igual a [int] [int] [int] [int] [int] que podemos acessar com a msm palavra
+    int candidatos[5];//Iremos ver isso mas para frente mas pense que isso é igual a 0[int] 1[int] 2[int] 3[int] 4[int] que podemos acessar com a msm palavra
     printf("*****SIMULAÇÃO DE VOTOS*****\n");
     printf("**Digite -999 para encerrar a votacao**\n");
     for(int c = 0; c < 5; c++){
